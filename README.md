@@ -9,6 +9,6 @@ This app will be used by two users to chat and sharing or store personal picures
 This app contains A Messenger , An Album And Notes .
 
 ## System Included- 
-* Login  * Update User Profile  * Changeing Password 
+* Login  * Update User Profile  * Changing Password 
 
 # OURs- App
